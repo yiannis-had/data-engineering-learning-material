@@ -1,5 +1,5 @@
 # Data-Engineering-material
-## Into
+## Intro
 https://www.youtube.com/watch?v=qWru-b6m030
 
 ## Python
@@ -25,3 +25,8 @@ https://databricks.com/blog/2014/01/21/spark-and-hadoop.html
 
 ## Offline Books
 file:///C:/Users/johng/OneDrive/Documents/Book%20PDFs/
+
+## General
+- https://github.com/viraptor/reverse-interview
+- https://yangshun.github.io/tech-interview-handbook/
+- 
