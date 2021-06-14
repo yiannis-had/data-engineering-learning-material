@@ -17,6 +17,7 @@
 - https://towardsdatascience.com/introduction-to-pandas-apply-applymap-and-map-5d3e044e93ff
 
 ## Articles
+- https://martinfowler.com/articles/data-monolith-to-mesh.html
 - https://medium.com/@arsenyspb/nomad-vs-yarn-vs-kubernetes-vs-borg-vs-mesos-vs-you-name-it-7f15a907ece2
 - https://databricks.com/blog/2014/01/21/spark-and-hadoop.html
 - https://www.reddit.com/r/dataengineering/comments/nk7j14/what_articles_are_must_reads_for_data_engineers/
