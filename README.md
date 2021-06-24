@@ -23,6 +23,9 @@
 - https://databricks.com/blog/2014/01/21/spark-and-hadoop.html
 - https://www.reddit.com/r/dataengineering/comments/nk7j14/what_articles_are_must_reads_for_data_engineers/
 
+## Official training
+- https://academy.databricks.com/user/consume/learning_pathway/42d2099f-7f8a-37ad-b4ba-964d7e8280d0 (johngate10)
+
 ## Offline Books
 file:///C:/Users/johng/OneDrive/Documents/Book%20PDFs/
 
