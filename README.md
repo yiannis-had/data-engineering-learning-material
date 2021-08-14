@@ -1,6 +1,7 @@
 # Data-Engineering-material
 ## Intro
 - https://www.youtube.com/watch?v=qWru-b6m030
+- https://www.youtube.com/watch?v=Y6Ev8GIlbxc
 
 ## Python
 - https://i.redd.it/p1i8awsivji51.jpg
@@ -22,6 +23,7 @@
 - https://medium.com/@arsenyspb/nomad-vs-yarn-vs-kubernetes-vs-borg-vs-mesos-vs-you-name-it-7f15a907ece2
 - https://databricks.com/blog/2014/01/21/spark-and-hadoop.html
 - https://www.reddit.com/r/dataengineering/comments/nk7j14/what_articles_are_must_reads_for_data_engineers/
+- https://www.reddit.com/r/dataengineering/comments/p3kpq9/1_year_of_mustread_articles/
 
 ## Official training
 - https://academy.databricks.com/user/consume/learning_pathway/42d2099f-7f8a-37ad-b4ba-964d7e8280d0 (johngate10)
