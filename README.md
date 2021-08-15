@@ -4,7 +4,6 @@
 - https://www.youtube.com/watch?v=Y6Ev8GIlbxc
 
 ## Python
-- https://i.redd.it/p1i8awsivji51.jpg
 - https://gto76.github.io/python-cheatsheet/
 
 ## SQL
