@@ -21,7 +21,6 @@
 - https://martinfowler.com/articles/data-monolith-to-mesh.html
 - https://medium.com/capital-one-tech/choosing-between-rest-web-apis-and-message-streaming-8e2f4813a058
 - https://medium.com/@arsenyspb/nomad-vs-yarn-vs-kubernetes-vs-borg-vs-mesos-vs-you-name-it-7f15a907ece2
-- https://databricks.com/blog/2014/01/21/spark-and-hadoop.html
 - https://www.reddit.com/r/dataengineering/comments/nk7j14/what_articles_are_must_reads_for_data_engineers/
 - https://www.reddit.com/r/dataengineering/comments/p3kpq9/1_year_of_mustread_articles/
 
