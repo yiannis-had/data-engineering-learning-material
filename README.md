@@ -22,6 +22,7 @@
 - https://medium.com/@arsenyspb/nomad-vs-yarn-vs-kubernetes-vs-borg-vs-mesos-vs-you-name-it-7f15a907ece2
 - https://www.reddit.com/r/dataengineering/comments/nk7j14/what_articles_are_must_reads_for_data_engineers/
 - https://www.reddit.com/r/dataengineering/comments/p3kpq9/1_year_of_mustread_articles/
+- https://www.startdataengineering.com/post/
 
 ## Official training
 - https://academy.databricks.com/user/consume/learning_pathway/42d2099f-7f8a-37ad-b4ba-964d7e8280d0 (johngate10)
