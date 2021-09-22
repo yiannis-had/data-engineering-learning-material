@@ -19,6 +19,10 @@
 
 ## Articles/Blogs/Discussions/Reddit
 - https://martinfowler.com/articles/data-monolith-to-mesh.html
+- https://martinfowler.com/articles/data-mesh-principles.html
+- https://lakefs.io/the-state-of-data-engineering-in-2021/
+- https://maximebeauchemin.medium.com/functional-data-engineering-a-modern-paradigm-for-batch-data-processing-2327ec32c42a ; https://www.youtube.com/watch?v=4Spo2QRTz1k
+- https://www.youtube.com/playlist?list=PLeKd45zvjcDFUEv_ohr_HdUFe97RItdiB
 - https://medium.com/capital-one-tech/choosing-between-rest-web-apis-and-message-streaming-8e2f4813a058
 - https://medium.com/@arsenyspb/nomad-vs-yarn-vs-kubernetes-vs-borg-vs-mesos-vs-you-name-it-7f15a907ece2
 - https://www.reddit.com/r/dataengineering/comments/nk7j14/what_articles_are_must_reads_for_data_engineers/
