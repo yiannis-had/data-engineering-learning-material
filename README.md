@@ -26,6 +26,7 @@
 - https://databand.ai/blog/a-data-observability-model-for-data-engineers/
 - https://medium.com/capital-one-tech/choosing-between-rest-web-apis-and-message-streaming-8e2f4813a058
 - https://blog.discord.com/how-discord-stores-billions-of-messages-7fa6ec7ee4c7
+- https://blog.twitter.com/engineering/en_us/a/2013/dremel-made-simple-with-parquet
 - https://www.reddit.com/r/dataengineering/comments/p3kpq9/1_year_of_mustread_articles/
 - https://www.startdataengineering.com/post/
 - https://www.reddit.com/r/dataengineering/comments/pmtenl/data_warehouse_interview_question/
