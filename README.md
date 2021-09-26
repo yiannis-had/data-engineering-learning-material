@@ -11,7 +11,6 @@
 - https://www.eversql.com/sql-order-of-operations-sql-query-order-of-execution/
 - https://www.youtube.com/channel/UCuDWqzSSHgHkD0zBwrIXSNQ/playlists
 - https://extendsclass.com/mysql-online.html
-- https://levelup.gitconnected.com/advanced-sql-for-data-professionals-e0ef0740e8e1
 
 ## More Python
 - https://www.scrapingbee.com/blog/web-scraping-101-with-python/
