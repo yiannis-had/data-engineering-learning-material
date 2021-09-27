@@ -3,6 +3,9 @@
 - https://www.youtube.com/watch?v=qWru-b6m030
 - https://www.youtube.com/watch?v=Y6Ev8GIlbxc
 
+## Roadmap
+- https://github.com/datastacktv/data-engineer-roadmap
+
 ## Python
 - https://gto76.github.io/python-cheatsheet/
 
