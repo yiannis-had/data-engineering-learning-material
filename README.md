@@ -39,7 +39,7 @@
 - https://academy.databricks.com/user/consume/learning_pathway/42d2099f-7f8a-37ad-b4ba-964d7e8280d0 (johngate10)
 
 ## Offline Books
-`file:///C:/Users/johng/OneDrive/Documents/Book%20PDFs/`
+`file:///C:/Users/johng/OneDrive/Documents/Book%20PDFs/Big-Data-and-Databases/`
 
 ## General
 - https://github.com/viraptor/reverse-interview
