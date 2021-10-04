@@ -41,6 +41,9 @@
 ## Offline Books
 `file:///C:/Users/johng/OneDrive/Documents/Book%20PDFs/Big-Data-and-Databases/`
 
+## 6.824: Distributed Systems
+- https://pdos.csail.mit.edu/6.824/schedule.html
+
 ## General
 - https://github.com/viraptor/reverse-interview
 - https://yangshun.github.io/tech-interview-handbook/
