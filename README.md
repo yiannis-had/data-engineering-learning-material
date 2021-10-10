@@ -33,6 +33,7 @@
 - https://www.startdataengineering.com/post/
 - https://www.reddit.com/r/dataengineering/comments/pmtenl/data_warehouse_interview_question/
 - https://www.reddit.com/r/dataengineering/comments/paid71/best_practices_to_orchestrate_ingestion_into/ha52vu2/ (also check the profile of the [replier](https://www.reddit.com/user/soundbarrier_io))
+- https://www.reddit.com/r/dataengineering/comments/q1i98c/python_or_sql_for_etl_or_both/hfgl7fy/
 - https://martinfowler.com/articles/patterns-of-distributed-systems/
 
 ## Official training
