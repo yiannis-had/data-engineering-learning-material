@@ -10,6 +10,7 @@
 - https://gto76.github.io/python-cheatsheet/
 
 ## SQL
+- https://i.redd.it/g79fnqndd6s71.jpg
 - https://towardsdatascience.com/sql-cheat-sheet-for-interviews-6e5981fa797b
 - https://www.eversql.com/sql-order-of-operations-sql-query-order-of-execution/
 - https://www.youtube.com/channel/UCuDWqzSSHgHkD0zBwrIXSNQ/playlists
