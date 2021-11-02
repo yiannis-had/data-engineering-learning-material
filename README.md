@@ -36,6 +36,7 @@
 - https://www.reddit.com/r/dataengineering/comments/paid71/best_practices_to_orchestrate_ingestion_into/ha52vu2/ (also check the profile of the [replier](https://www.reddit.com/user/soundbarrier_io))
 - https://www.reddit.com/r/dataengineering/comments/q1i98c/python_or_sql_for_etl_or_both/hfgl7fy/
 - https://martinfowler.com/articles/patterns-of-distributed-systems/
+- https://discourse.getdbt.com/t/how-we-structure-our-dbt-projects/355
 
 ## Official training
 - https://academy.databricks.com/user/consume/learning_pathway/42d2099f-7f8a-37ad-b4ba-964d7e8280d0 (johngate10)
