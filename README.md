@@ -37,6 +37,7 @@
 - https://www.reddit.com/r/dataengineering/comments/q1i98c/python_or_sql_for_etl_or_both/hfgl7fy/
 - https://martinfowler.com/articles/patterns-of-distributed-systems/
 - https://discourse.getdbt.com/t/how-we-structure-our-dbt-projects/355
+- https://calpaterson.com/how-a-sql-database-works.html
 
 ## Official training
 - https://academy.databricks.com/user/consume/learning_pathway/42d2099f-7f8a-37ad-b4ba-964d7e8280d0 (johngate10)
