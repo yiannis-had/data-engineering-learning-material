@@ -2,6 +2,7 @@
 ## Intro
 - https://www.youtube.com/watch?v=qWru-b6m030
 - https://www.youtube.com/watch?v=Y6Ev8GIlbxc
+- [The AI hierarchy of needs - *pyramid picture*](https://hackernoon.com/_next/image?url=https%3A%2F%2Fcdn.hackernoon.com%2Fhn-images%2F1*7IMev5xslc9FLxr9hHhpFw.png&w=1920&q=75)
 
 ## Roadmap
 - https://github.com/datastacktv/data-engineer-roadmap
@@ -24,7 +25,9 @@
 - https://martinfowler.com/articles/data-monolith-to-mesh.html
 - https://martinfowler.com/articles/data-mesh-principles.html
 - https://lakefs.io/the-state-of-data-engineering-in-2021/
+- https://www.youtube.com/watch?v=Fvu2oFyFCT0
 - https://maximebeauchemin.medium.com/functional-data-engineering-a-modern-paradigm-for-batch-data-processing-2327ec32c42a ; https://www.youtube.com/watch?v=4Spo2QRTz1k
+- https://www.youtube.com/watch?v=pzfgbSfzhXg
 - https://www.youtube.com/playlist?list=PLeKd45zvjcDFUEv_ohr_HdUFe97RItdiB
 - https://databand.ai/blog/a-data-observability-model-for-data-engineers/
 - https://medium.com/capital-one-tech/choosing-between-rest-web-apis-and-message-streaming-8e2f4813a058
@@ -47,6 +50,9 @@
 
 ## 6.824: Distributed Systems
 - https://pdos.csail.mit.edu/6.824/schedule.html
+
+## Missing Semester of Your CS Education
+- https://missing.csail.mit.edu/
 
 ## General
 - https://github.com/viraptor/reverse-interview
