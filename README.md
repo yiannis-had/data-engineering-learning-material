@@ -25,7 +25,7 @@
 - https://martinfowler.com/articles/data-monolith-to-mesh.html
 - https://martinfowler.com/articles/data-mesh-principles.html
 - https://lakefs.io/the-state-of-data-engineering-in-2021/
-- https://www.youtube.com/watch?v=Fvu2oFyFCT0
+- https://www.youtube.com/watch?v=Fvu2oFyFCT0 - *meta* data engineering
 - https://maximebeauchemin.medium.com/functional-data-engineering-a-modern-paradigm-for-batch-data-processing-2327ec32c42a ; https://www.youtube.com/watch?v=4Spo2QRTz1k
 - https://www.youtube.com/watch?v=pzfgbSfzhXg
 - https://www.youtube.com/playlist?list=PLeKd45zvjcDFUEv_ohr_HdUFe97RItdiB
