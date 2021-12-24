@@ -42,6 +42,7 @@
 - https://www.reddit.com/r/dataengineering/comments/r6lhgq/late_data_arrival/
 - 
 - https://martinfowler.com/articles/patterns-of-distributed-systems/
+- https://martinfowler.com/architecture/
 - https://discourse.getdbt.com/t/how-we-structure-our-dbt-projects/355
 - https://calpaterson.com/how-a-sql-database-works.html
 
