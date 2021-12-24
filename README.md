@@ -28,7 +28,7 @@
 - https://www.youtube.com/watch?v=Fvu2oFyFCT0 - *meta* data engineering
 - https://maximebeauchemin.medium.com/functional-data-engineering-a-modern-paradigm-for-batch-data-processing-2327ec32c42a ; https://www.youtube.com/watch?v=4Spo2QRTz1k
 - https://www.youtube.com/watch?v=pzfgbSfzhXg
-- https://www.youtube.com/playlist?list=PLeKd45zvjcDFUEv_ohr_HdUFe97RItdiB
+- https://preset.io/blog/reshaping-data-engineering/
 - https://databand.ai/blog/a-data-observability-model-for-data-engineers/
 - https://medium.com/capital-one-tech/choosing-between-rest-web-apis-and-message-streaming-8e2f4813a058
 - https://blog.discord.com/how-discord-stores-billions-of-messages-7fa6ec7ee4c7
@@ -38,6 +38,9 @@
 - https://www.reddit.com/r/dataengineering/comments/pmtenl/data_warehouse_interview_question/
 - https://www.reddit.com/r/dataengineering/comments/paid71/best_practices_to_orchestrate_ingestion_into/ha52vu2/ (also check the profile of the [replier](https://www.reddit.com/user/soundbarrier_io))
 - https://www.reddit.com/r/dataengineering/comments/q1i98c/python_or_sql_for_etl_or_both/hfgl7fy/
+- https://www.reddit.com/r/dataengineering/comments/rnmumx/kimball_vs_inmon_vs_vault/
+- https://www.reddit.com/r/dataengineering/comments/r6lhgq/late_data_arrival/
+- 
 - https://martinfowler.com/articles/patterns-of-distributed-systems/
 - https://discourse.getdbt.com/t/how-we-structure-our-dbt-projects/355
 - https://calpaterson.com/how-a-sql-database-works.html
@@ -47,6 +50,8 @@
 
 ## Offline Books
 `file:///C:/Users/johng/OneDrive/Documents/Book%20PDFs/Big-Data-and-Databases/`
+- https://www.youtube.com/playlist?list=PLeKd45zvjcDFUEv_ohr_HdUFe97RItdiB (DDIA)
+- https://www.holistics.io/blog/how-to-read-data-warehouse-toolkit/ (DW Toolkit)
 
 ## 6.824: Distributed Systems
 - https://pdos.csail.mit.edu/6.824/schedule.html
