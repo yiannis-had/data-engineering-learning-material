@@ -46,7 +46,7 @@
 - https://academy.databricks.com/user/consume/learning_pathway/42d2099f-7f8a-37ad-b4ba-964d7e8280d0 (johngate10)
 
 ## Offline Books
-`file:///C:/Users/johng/OneDrive/Documents/Book%20PDFs/Big-Data-and-Databases/`
+`file:///home/yiannis/OneDrive/Documents/Book%20PDFs/Big-Data-and-Databases/`
 - https://www.youtube.com/playlist?list=PLeKd45zvjcDFUEv_ohr_HdUFe97RItdiB (DDIA)
 - https://www.holistics.io/blog/how-to-read-data-warehouse-toolkit/ (DW Toolkit)
 
