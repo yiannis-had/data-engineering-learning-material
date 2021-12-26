@@ -21,7 +21,7 @@
 - https://www.scrapingbee.com/blog/web-scraping-101-with-python/
 - https://towardsdatascience.com/introduction-to-pandas-apply-applymap-and-map-5d3e044e93ff
 
-## Articles/Blogs/Discussions/Reddit
+## Articles/Blogs/News/Discussions/Reddit
 - https://martinfowler.com/articles/data-monolith-to-mesh.html
 - https://martinfowler.com/articles/data-mesh-principles.html
 - https://lakefs.io/the-state-of-data-engineering-in-2021/
@@ -34,7 +34,8 @@
 - https://blog.discord.com/how-discord-stores-billions-of-messages-7fa6ec7ee4c7
 - https://blog.twitter.com/engineering/en_us/a/2013/dremel-made-simple-with-parquet
 - https://www.reddit.com/r/dataengineering/comments/p3kpq9/1_year_of_mustread_articles/
-- https://www.startdataengineering.com/post/
+- https://www.blef.fr/tag/datanews/ - data news
+- https://www.startdataengineering.com/post/ - brief "how to" posts
 - https://www.reddit.com/r/dataengineering/comments/pmtenl/data_warehouse_interview_question/
 - https://www.reddit.com/r/dataengineering/comments/paid71/best_practices_to_orchestrate_ingestion_into/ha52vu2/ (also check the profile of the [replier](https://www.reddit.com/user/soundbarrier_io))
 - https://www.reddit.com/r/dataengineering/comments/q1i98c/python_or_sql_for_etl_or_both/hfgl7fy/
