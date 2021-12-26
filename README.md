@@ -9,17 +9,14 @@
 
 ## Python
 - https://gto76.github.io/python-cheatsheet/
+- https://www.scrapingbee.com/blog/web-scraping-101-with-python/
+- https://towardsdatascience.com/introduction-to-pandas-apply-applymap-and-map-5d3e044e93ff
 
 ## SQL
 - https://i.redd.it/g79fnqndd6s71.jpg
-- https://towardsdatascience.com/sql-cheat-sheet-for-interviews-6e5981fa797b
-- https://www.eversql.com/sql-order-of-operations-sql-query-order-of-execution/
+- https://calpaterson.com/how-a-sql-database-works.html
 - https://www.youtube.com/channel/UCuDWqzSSHgHkD0zBwrIXSNQ/playlists
 - https://extendsclass.com/mysql-online.html
-
-## More Python
-- https://www.scrapingbee.com/blog/web-scraping-101-with-python/
-- https://towardsdatascience.com/introduction-to-pandas-apply-applymap-and-map-5d3e044e93ff
 
 ## Articles/Blogs/News/Discussions/Reddit
 - https://martinfowler.com/articles/data-monolith-to-mesh.html
@@ -36,16 +33,14 @@
 - https://www.reddit.com/r/dataengineering/comments/p3kpq9/1_year_of_mustread_articles/
 - https://www.blef.fr/tag/datanews/ - data news
 - https://www.startdataengineering.com/post/ - brief "how to" posts
-- https://www.reddit.com/r/dataengineering/comments/pmtenl/data_warehouse_interview_question/
-- https://www.reddit.com/r/dataengineering/comments/paid71/best_practices_to_orchestrate_ingestion_into/ha52vu2/ (also check the profile of the [replier](https://www.reddit.com/user/soundbarrier_io))
-- https://www.reddit.com/r/dataengineering/comments/q1i98c/python_or_sql_for_etl_or_both/hfgl7fy/
-- https://www.reddit.com/r/dataengineering/comments/rnmumx/kimball_vs_inmon_vs_vault/
-- https://www.reddit.com/r/dataengineering/comments/r6lhgq/late_data_arrival/
-- 
 - https://martinfowler.com/articles/patterns-of-distributed-systems/
 - https://martinfowler.com/architecture/
+- https://www.reddit.com/r/dataengineering/comments/pmtenl/data_warehouse_interview_question/
 - https://discourse.getdbt.com/t/how-we-structure-our-dbt-projects/355
-- https://calpaterson.com/how-a-sql-database-works.html
+- https://www.reddit.com/r/dataengineering/comments/rnmumx/kimball_vs_inmon_vs_vault/
+- https://www.reddit.com/r/dataengineering/comments/paid71/best_practices_to_orchestrate_ingestion_into/ha52vu2/ (also check another [comment](https://www.reddit.com/r/dataengineering/comments/q77329/no_work_in_team_what_to_learn_work_on/hggu1yd/) from the same person)
+- https://www.reddit.com/r/dataengineering/comments/q1i98c/python_or_sql_for_etl_or_both/hfgl7fy/
+- https://www.reddit.com/r/dataengineering/comments/r6lhgq/late_data_arrival/
 
 ## Official training
 - https://academy.databricks.com/user/consume/learning_pathway/42d2099f-7f8a-37ad-b4ba-964d7e8280d0 (johngate10)
