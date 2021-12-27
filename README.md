@@ -21,20 +21,22 @@
 ## Articles/Blogs/News/Discussions/Reddit
 - https://martinfowler.com/articles/data-monolith-to-mesh.html
 - https://martinfowler.com/articles/data-mesh-principles.html
-- https://lakefs.io/the-state-of-data-engineering-in-2021/
+- https://martinfowler.com/articles/patterns-of-distributed-systems/
+- https://martinfowler.com/architecture/
 - https://www.youtube.com/watch?v=Fvu2oFyFCT0 - *meta* data engineering
 - https://maximebeauchemin.medium.com/functional-data-engineering-a-modern-paradigm-for-batch-data-processing-2327ec32c42a ; https://www.youtube.com/watch?v=4Spo2QRTz1k
 - https://www.youtube.com/watch?v=pzfgbSfzhXg - build *frameworks* not pipelines
+- https://lakefs.io/the-state-of-data-engineering-in-2021/
 - https://preset.io/blog/reshaping-data-engineering/
+- https://airbyte.io/blog/why-the-future-of-etl-is-not-elt-but-el
 - https://databand.ai/blog/a-data-observability-model-for-data-engineers/
 - https://medium.com/capital-one-tech/choosing-between-rest-web-apis-and-message-streaming-8e2f4813a058
 - https://blog.discord.com/how-discord-stores-billions-of-messages-7fa6ec7ee4c7
 - https://blog.twitter.com/engineering/en_us/a/2013/dremel-made-simple-with-parquet
-- https://www.reddit.com/r/dataengineering/comments/p3kpq9/1_year_of_mustread_articles/
+- https://medium.com/snaptravel/how-should-our-company-structure-our-data-team-e71f6846024d
+- https://pedram.substack.com/p/modern-data-team
 - https://www.blef.fr/tag/datanews/ - data news
 - https://www.startdataengineering.com/post/ - brief "how to" posts
-- https://martinfowler.com/articles/patterns-of-distributed-systems/
-- https://martinfowler.com/architecture/
 - https://www.reddit.com/r/dataengineering/comments/pmtenl/data_warehouse_interview_question/
 - https://discourse.getdbt.com/t/how-we-structure-our-dbt-projects/355
 - https://www.reddit.com/r/dataengineering/comments/rnmumx/kimball_vs_inmon_vs_vault/
