@@ -26,7 +26,6 @@
 - https://www.youtube.com/watch?v=Fvu2oFyFCT0 - *meta* data engineering
 - https://maximebeauchemin.medium.com/functional-data-engineering-a-modern-paradigm-for-batch-data-processing-2327ec32c42a ; https://www.youtube.com/watch?v=4Spo2QRTz1k
 - https://www.youtube.com/watch?v=pzfgbSfzhXg - build *frameworks* not pipelines
-- https://lakefs.io/the-state-of-data-engineering-in-2021/
 - https://preset.io/blog/reshaping-data-engineering/
 - https://airbyte.io/blog/why-the-future-of-etl-is-not-elt-but-el
 - https://databand.ai/blog/a-data-observability-model-for-data-engineers/
