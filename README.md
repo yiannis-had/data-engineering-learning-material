@@ -21,6 +21,7 @@
 ## Articles/Blogs/News/Discussions/Reddit
 - https://martinfowler.com/articles/data-monolith-to-mesh.html
 - https://martinfowler.com/articles/data-mesh-principles.html
+- https://carlosgrande.me/my-data-mesh-thesis/
 - https://martinfowler.com/articles/patterns-of-distributed-systems/
 - https://martinfowler.com/architecture/
 - https://www.youtube.com/watch?v=Fvu2oFyFCT0 - *meta* data engineering
