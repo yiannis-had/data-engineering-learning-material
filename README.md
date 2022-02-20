@@ -61,9 +61,10 @@
 ## Missing Semester of Your CS Education
 - https://missing.csail.mit.edu/
 
-## General
+## Interview
 - https://github.com/viraptor/reverse-interview
 - https://yangshun.github.io/tech-interview-handbook/
+- https://github.com/donnemartin/interactive-coding-challenges
 
 ## https://www.reddit.com/r/dataengineering/comments/r14k34/which_tech_skills_are_the_most_marketable_in_the/hlwohpr/
 No online course can necessarily teach these skills, but instead it comes with experience on the job. Here are a few topics to explore further:
