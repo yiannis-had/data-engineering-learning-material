@@ -20,6 +20,11 @@
 - https://www.youtube.com/channel/UCuDWqzSSHgHkD0zBwrIXSNQ/playlists
 - https://extendsclass.com/mysql-online.html
 
+## Dataflow
+- https://cloud.google.com/blog/products/data-analytics/guide-to-common-cloud-dataflow-use-case-patterns-part-1
+- https://cloud.google.com/blog/products/data-analytics/how-cloud-batch-and-stream-data-processing-works
+- https://www.youtube.com/watch?v=4ifC_6AVkUw
+
 ## Articles/Blogs/News/Discussions/Reddit
 - https://martinfowler.com/articles/data-monolith-to-mesh.html
 - https://martinfowler.com/articles/data-mesh-principles.html
