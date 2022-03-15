@@ -11,6 +11,7 @@
 - https://gto76.github.io/python-cheatsheet/
 - https://www.scrapingbee.com/blog/web-scraping-101-with-python/
 - https://towardsdatascience.com/introduction-to-pandas-apply-applymap-and-map-5d3e044e93ff
+- https://pandas.pydata.org/Pandas_Cheat_Sheet.pdf
 
 ## SQL
 - https://i.redd.it/g79fnqndd6s71.jpg
