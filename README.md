@@ -1,7 +1,6 @@
 # Data-Engineering-material
 ## Intro
 - https://www.youtube.com/watch?v=qWru-b6m030
-- https://www.youtube.com/watch?v=Y6Ev8GIlbxc
 - [The AI hierarchy of needs](https://hackernoon.com/_next/image?url=https%3A%2F%2Fcdn.hackernoon.com%2Fhn-images%2F1*7IMev5xslc9FLxr9hHhpFw.png&w=1920&q=75) - *pyramid picture*
 
 ## Roadmap
@@ -19,6 +18,11 @@
 - https://calpaterson.com/how-a-sql-database-works.html
 - https://www.youtube.com/channel/UCuDWqzSSHgHkD0zBwrIXSNQ/playlists
 - https://extendsclass.com/mysql-online.html
+
+## Distributed Systems
+- https://www.youtube.com/watch?v=Y6Ev8GIlbxc
+- https://pdos.csail.mit.edu/6.824/schedule.html
+- https://www.youtube.com/playlist?list=PLeKd45zvjcDFUEv_ohr_HdUFe97RItdiB
 
 ## Dataflow
 - https://cloud.google.com/blog/products/data-analytics/guide-to-common-cloud-dataflow-use-case-patterns-part-1
@@ -53,25 +57,21 @@
 - https://www.reddit.com/r/dataengineering/comments/r6lhgq/late_data_arrival/
 - https://asatarin.github.io/testing-distributed-systems/
 
-## Non-technical
-- https://www.justindfuller.com/2022/02/embracing-impostor-syndrome/
-- https://bitfieldconsulting.com/golang/career
-- https://sloanreview.mit.edu/article/top-performers-have-a-superpower-happiness/
+## Missing Semester of Your CS Education
+- https://missing.csail.mit.edu/
 
 ## Official training
 - https://academy.databricks.com/user/consume/learning_pathway/42d2099f-7f8a-37ad-b4ba-964d7e8280d0 (johngate10)
 
 ## Offline Books
-`file:///home/yiannis/OneDrive/Documents/Book%20PDFs/Big-Data-and-Databases/`
-- https://www.youtube.com/playlist?list=PLeKd45zvjcDFUEv_ohr_HdUFe97RItdiB (DDIA)
+- `file:///home/yiannis/OneDrive/Documents/Book%20PDFs/Big-Data-and-Databases/`
 - https://www.holistics.io/blog/how-to-read-data-warehouse-toolkit/ (DW Toolkit)
 - https://www.kimballgroup.com/data-warehouse-business-intelligence-resources/kimball-techniques/dimensional-modeling-techniques/ (DW Toolkit)
 
-## 6.824: Distributed Systems
-- https://pdos.csail.mit.edu/6.824/schedule.html
-
-## Missing Semester of Your CS Education
-- https://missing.csail.mit.edu/
+## Non-technical
+- https://www.justindfuller.com/2022/02/embracing-impostor-syndrome/
+- https://bitfieldconsulting.com/golang/career
+- https://sloanreview.mit.edu/article/top-performers-have-a-superpower-happiness/
 
 ## Interview
 - https://github.com/viraptor/reverse-interview
