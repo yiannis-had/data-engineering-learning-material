@@ -44,8 +44,6 @@
 - https://medium.com/capital-one-tech/choosing-between-rest-web-apis-and-message-streaming-8e2f4813a058
 - https://blog.discord.com/how-discord-stores-billions-of-messages-7fa6ec7ee4c7
 - https://blog.twitter.com/engineering/en_us/a/2013/dremel-made-simple-with-parquet
-- https://medium.com/snaptravel/how-should-our-company-structure-our-data-team-e71f6846024d
-- https://pedram.substack.com/p/modern-data-team
 - https://www.blef.fr/tag/datanews/ - data news
 - https://www.startdataengineering.com/post/ - brief "how to" posts
 - https://www.reddit.com/r/dataengineering/comments/pmtenl/data_warehouse_interview_question/
@@ -56,6 +54,11 @@
 - https://www.reddit.com/r/dataengineering/comments/q1i98c/python_or_sql_for_etl_or_both/hfgl7fy/
 - https://www.reddit.com/r/dataengineering/comments/r6lhgq/late_data_arrival/
 - https://asatarin.github.io/testing-distributed-systems/
+
+## Team structure
+- https://medium.com/snaptravel/how-should-our-company-structure-our-data-team-e71f6846024d
+- https://pedram.substack.com/p/modern-data-team
+- https://about.gitlab.com/handbook/business-technology/data-team/platform/
 
 ## Missing Semester of Your CS Education
 - https://missing.csail.mit.edu/
