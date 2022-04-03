@@ -30,6 +30,7 @@
 - https://www.youtube.com/watch?v=4ifC_6AVkUw
 
 ## Articles/Blogs/News/Discussions/Reddit
+- https://refactoring.guru/
 - https://martinfowler.com/articles/data-monolith-to-mesh.html
 - https://martinfowler.com/articles/data-mesh-principles.html
 - https://carlosgrande.me/my-data-mesh-thesis/
@@ -68,6 +69,7 @@
 
 ## Offline Books
 - `file:///home/yiannis/OneDrive/Documents/Book%20PDFs/Big-Data-and-Databases/`
+- https://medium.com/@Joker3D/mind-maps-of-designing-data-intensive-application-2b7556be92b3 (DDIA)
 - https://www.holistics.io/blog/how-to-read-data-warehouse-toolkit/ (DW Toolkit)
 - https://www.kimballgroup.com/data-warehouse-business-intelligence-resources/kimball-techniques/dimensional-modeling-techniques/ (DW Toolkit)
 
