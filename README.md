@@ -69,9 +69,6 @@
 ## Missing Semester of Your CS Education
 - https://missing.csail.mit.edu/
 
-## Official training
-- https://academy.databricks.com/user/consume/learning_pathway/42d2099f-7f8a-37ad-b4ba-964d7e8280d0 (johngate10)
-
 ## Offline Books
 - `file:///home/yiannis/OneDrive/Documents/Book%20PDFs/Big-Data-and-Databases/`
 - https://medium.com/@Joker3D/mind-maps-of-designing-data-intensive-application-2b7556be92b3 (DDIA)
