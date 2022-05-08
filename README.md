@@ -60,6 +60,7 @@
 - https://engineering.linkedin.com/blog
 - https://eng.uber.com/
 - https://netflixtechblog.com/
+- https://blog.twitter.com/engineering/en_us
 
 ## Team structure
 - https://medium.com/snaptravel/how-should-our-company-structure-our-data-team-e71f6846024d
