@@ -56,6 +56,11 @@
 - https://www.reddit.com/r/dataengineering/comments/r6lhgq/late_data_arrival/
 - https://asatarin.github.io/testing-distributed-systems/
 
+## Big companies' engineering blogs
+- https://engineering.linkedin.com/blog
+- https://eng.uber.com/
+- https://netflixtechblog.com/
+
 ## Team structure
 - https://medium.com/snaptravel/how-should-our-company-structure-our-data-team-e71f6846024d
 - https://pedram.substack.com/p/modern-data-team
