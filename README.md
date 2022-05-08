@@ -75,7 +75,7 @@
 - https://www.holistics.io/blog/how-to-read-data-warehouse-toolkit/ (DW Toolkit)
 - https://www.kimballgroup.com/data-warehouse-business-intelligence-resources/kimball-techniques/dimensional-modeling-techniques/ (DW Toolkit)
 
-## Non-technical
+## Non-technical articles
 - https://www.justindfuller.com/2022/02/embracing-impostor-syndrome/
 - https://bitfieldconsulting.com/golang/career
 - https://sloanreview.mit.edu/article/top-performers-have-a-superpower-happiness/
