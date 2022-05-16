@@ -67,15 +67,19 @@
 - https://medium.com/snaptravel/how-should-our-company-structure-our-data-team-e71f6846024d
 - https://pedram.substack.com/p/modern-data-team
 - https://about.gitlab.com/handbook/business-technology/data-team/platform/
+- Team Topologies: Organizing Business and Technology Teams for Fast Flow
 
 ## Missing Semester of Your CS Education
 - https://missing.csail.mit.edu/
 
-## Offline Books
-- `file:///home/yiannis/OneDrive/Documents/Book%20PDFs/Big-Data-and-Databases/`
+## Books and relevant resources
+- Designing Data-Intensive Applications
+- The Data Warehouse Toolkit
+- Design Patterns: Elements of Reusable Object-Oriented Software
 - https://medium.com/@Joker3D/mind-maps-of-designing-data-intensive-application-2b7556be92b3 (DDIA)
 - https://www.holistics.io/blog/how-to-read-data-warehouse-toolkit/ (DW Toolkit)
 - https://www.kimballgroup.com/data-warehouse-business-intelligence-resources/kimball-techniques/dimensional-modeling-techniques/ (DW Toolkit)
+- https://github.com/faif/python-patterns (Design Patterns)
 
 ## Non-technical articles
 - https://www.justindfuller.com/2022/02/embracing-impostor-syndrome/
