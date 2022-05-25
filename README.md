@@ -19,6 +19,10 @@
 - https://www.youtube.com/channel/UCuDWqzSSHgHkD0zBwrIXSNQ/playlists
 - https://extendsclass.com/mysql-online.html
 
+## Linux
+- https://abarrak.gitbook.io/linux-sysops-handbook/
+- https://gto76.github.io/linux-cheatsheet/
+
 ## Distributed Systems
 - https://www.youtube.com/watch?v=Y6Ev8GIlbxc
 - https://pdos.csail.mit.edu/6.824/schedule.html
@@ -28,6 +32,9 @@
 - https://cloud.google.com/blog/products/data-analytics/guide-to-common-cloud-dataflow-use-case-patterns-part-1
 - https://cloud.google.com/blog/products/data-analytics/how-cloud-batch-and-stream-data-processing-works
 - https://www.youtube.com/watch?v=4ifC_6AVkUw
+
+## Vim
+- http://www.viemu.com/vi-vim-cheat-sheet.gif
 
 ## Articles/Blogs/News/Discussions/Reddit
 - https://refactoring.guru/
