@@ -84,6 +84,7 @@
 ## Non-technical articles
 - https://www.justindfuller.com/2022/02/embracing-impostor-syndrome/
 - https://bitfieldconsulting.com/golang/career
+- https://www.bti360.com/what-ive-learned-in-45-years-in-the-software-industry/
 - https://sloanreview.mit.edu/article/top-performers-have-a-superpower-happiness/
 
 ## Interview
