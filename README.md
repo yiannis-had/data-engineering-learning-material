@@ -26,7 +26,9 @@
 ## Distributed Systems
 - https://www.youtube.com/watch?v=Y6Ev8GIlbxc
 - https://pdos.csail.mit.edu/6.824/schedule.html
+- https://martinfowler.com/articles/patterns-of-distributed-systems/
 - https://www.youtube.com/playlist?list=PLeKd45zvjcDFUEv_ohr_HdUFe97RItdiB
+- https://www.computer.org/publications/tech-news/research/netflix-chaos-engineering
 
 ## Dataflow
 - https://cloud.google.com/blog/products/data-analytics/guide-to-common-cloud-dataflow-use-case-patterns-part-1
@@ -36,12 +38,11 @@
 ## Vim
 - http://www.viemu.com/vi-vim-cheat-sheet.gif
 
-## Articles/Blogs/News/Discussions/Reddit
+## Misc articles/blogs/news/discussions
 - https://refactoring.guru/
 - https://martinfowler.com/articles/data-monolith-to-mesh.html
 - https://martinfowler.com/articles/data-mesh-principles.html
 - https://carlosgrande.me/my-data-mesh-thesis/
-- https://martinfowler.com/articles/patterns-of-distributed-systems/
 - https://martinfowler.com/architecture/
 - https://martinfowler.com/articles/microservices.html
 - https://www.youtube.com/watch?v=Fvu2oFyFCT0 - *meta* data engineering
