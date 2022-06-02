@@ -11,6 +11,8 @@
 - https://www.scrapingbee.com/blog/web-scraping-101-with-python/
 - https://pandas.pydata.org/Pandas_Cheat_Sheet.pdf
 - https://pandas.pydata.org/pandas-docs/stable/user_guide/cookbook.html
+- https://github.com/vinta/awesome-python
+- https://github.com/satwikkansal/wtfpython
 
 ## SQL
 - https://i.redd.it/g79fnqndd6s71.jpg
@@ -21,13 +23,19 @@
 ## Linux
 - https://abarrak.gitbook.io/linux-sysops-handbook/
 - https://gto76.github.io/linux-cheatsheet/
+- https://github.com/jlevy/the-art-of-command-line
 
-## Distributed Systems
+## Distributed Systems/System design/Architecture
 - https://www.youtube.com/watch?v=Y6Ev8GIlbxc
 - https://pdos.csail.mit.edu/6.824/schedule.html
 - https://martinfowler.com/articles/patterns-of-distributed-systems/
 - https://www.youtube.com/playlist?list=PLeKd45zvjcDFUEv_ohr_HdUFe97RItdiB
 - https://www.computer.org/publications/tech-news/research/netflix-chaos-engineering
+- https://github.com/binhnguyennus/awesome-scalability
+- https://github.com/donnemartin/system-design-primer
+- https://github.com/codecrafters-io/build-your-own-x
+- https://martinfowler.com/architecture/
+- https://martinfowler.com/articles/microservices.html
 
 ## Dataflow
 - https://cloud.google.com/blog/products/data-analytics/guide-to-common-cloud-dataflow-use-case-patterns-part-1
@@ -37,13 +45,19 @@
 ## Vim
 - http://www.viemu.com/vi-vim-cheat-sheet.gif
 
+## Lists
+- https://github.com/sindresorhus/awesome
+- https://github.com/igorbarinov/awesome-data-engineering
+- https://github.com/docker/awesome-compose
+- https://github.com/trimstray/the-book-of-secret-knowledge
+- https://github.com/papers-we-love/papers-we-love
+- https://github.com/dwmkerr/hacker-laws
+
 ## Misc articles/blogs/news/discussions
 - https://refactoring.guru/
 - https://martinfowler.com/articles/data-monolith-to-mesh.html
 - https://martinfowler.com/articles/data-mesh-principles.html
 - https://carlosgrande.me/my-data-mesh-thesis/
-- https://martinfowler.com/architecture/
-- https://martinfowler.com/articles/microservices.html
 - https://www.youtube.com/watch?v=Fvu2oFyFCT0 - *meta* data engineering
 - https://maximebeauchemin.medium.com/functional-data-engineering-a-modern-paradigm-for-batch-data-processing-2327ec32c42a ; https://www.youtube.com/watch?v=4Spo2QRTz1k
 - https://www.youtube.com/watch?v=pzfgbSfzhXg - build *frameworks* not pipelines
