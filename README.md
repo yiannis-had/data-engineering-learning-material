@@ -32,6 +32,7 @@ Material for data & software engineering (and computer science)
 - https://martinfowler.com/articles/patterns-of-distributed-systems/
 - https://www.youtube.com/playlist?list=PLeKd45zvjcDFUEv_ohr_HdUFe97RItdiB
 - https://www.computer.org/publications/tech-news/research/netflix-chaos-engineering
+- https://asatarin.github.io/testing-distributed-systems/
 - https://github.com/binhnguyennus/awesome-scalability
 - https://github.com/donnemartin/system-design-primer
 - https://github.com/codecrafters-io/build-your-own-x
@@ -46,7 +47,7 @@ Material for data & software engineering (and computer science)
 ## Vim
 - http://www.viemu.com/vi-vim-cheat-sheet.gif
 
-## Lists
+## Compiled lists
 - https://github.com/sindresorhus/awesome
 - https://github.com/igorbarinov/awesome-data-engineering
 - https://github.com/docker/awesome-compose
@@ -77,7 +78,6 @@ Material for data & software engineering (and computer science)
 - https://www.reddit.com/r/dataengineering/comments/rkhevl/what_did_you_guys_wish_you_knew_before/hpa41ff/
 - https://www.reddit.com/r/dataengineering/comments/q1i98c/python_or_sql_for_etl_or_both/hfgl7fy/
 - https://www.reddit.com/r/dataengineering/comments/r6lhgq/late_data_arrival/
-- https://asatarin.github.io/testing-distributed-systems/
 
 ## Big companies' engineering blogs
 - https://engineering.linkedin.com/blog
