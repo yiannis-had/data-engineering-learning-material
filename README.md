@@ -9,7 +9,6 @@
 ## Python
 - https://gto76.github.io/python-cheatsheet/
 - https://www.scrapingbee.com/blog/web-scraping-101-with-python/
-- https://towardsdatascience.com/introduction-to-pandas-apply-applymap-and-map-5d3e044e93ff
 - https://pandas.pydata.org/Pandas_Cheat_Sheet.pdf
 - https://pandas.pydata.org/pandas-docs/stable/user_guide/cookbook.html
 
@@ -80,7 +79,7 @@
 ## Missing Semester of Your CS Education
 - https://missing.csail.mit.edu/
 
-## Books and relevant resources
+## Technical books and relevant resources
 - Designing Data-Intensive Applications
 - The Data Warehouse Toolkit
 - Design Patterns: Elements of Reusable Object-Oriented Software
