@@ -1,5 +1,6 @@
-# Data-Engineering-Learning-material
+# Data Engineering learning material
 Material for data & software engineering (and computer science)
+
 ## Intro
 - https://www.youtube.com/watch?v=qWru-b6m030
 - [The AI hierarchy of needs](https://hackernoon.com/_next/image?url=https%3A%2F%2Fcdn.hackernoon.com%2Fhn-images%2F1*7IMev5xslc9FLxr9hHhpFw.png&w=1920&q=75) - *pyramid picture*
