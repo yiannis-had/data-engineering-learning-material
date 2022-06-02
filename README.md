@@ -51,7 +51,6 @@ Material for data & software engineering (and computer science)
 ## Compiled lists
 - https://github.com/sindresorhus/awesome
 - https://github.com/igorbarinov/awesome-data-engineering
-- https://github.com/docker/awesome-compose
 - https://github.com/trimstray/the-book-of-secret-knowledge
 - https://github.com/papers-we-love/papers-we-love
 - https://github.com/dwmkerr/hacker-laws
