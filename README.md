@@ -1,4 +1,4 @@
-# Data-Engineering-material
+# Data-Engineering-Learning-material
 Material for data & software engineering (and computer science)
 ## Intro
 - https://www.youtube.com/watch?v=qWru-b6m030
