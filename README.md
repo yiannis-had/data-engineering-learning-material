@@ -45,9 +45,6 @@ Material for data & software engineering (and computer science)
 - https://cloud.google.com/blog/products/data-analytics/how-cloud-batch-and-stream-data-processing-works
 - https://www.youtube.com/watch?v=4ifC_6AVkUw
 
-## Vim
-- http://www.viemu.com/vi-vim-cheat-sheet.gif
-
 ## Compiled lists
 - https://github.com/sindresorhus/awesome
 - https://github.com/igorbarinov/awesome-data-engineering
