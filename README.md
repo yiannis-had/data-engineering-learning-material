@@ -52,7 +52,7 @@ Material for data & software engineering (and computer science)
 - https://github.com/papers-we-love/papers-we-love
 - https://github.com/dwmkerr/hacker-laws
 
-## Misc articles/blogs/news/discussions
+## Misc articles/blogs/news/discussions/videos
 - https://refactoring.guru/
 - https://martinfowler.com/articles/data-monolith-to-mesh.html
 - https://martinfowler.com/articles/data-mesh-principles.html
