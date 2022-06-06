@@ -19,6 +19,7 @@ Material for data & software engineering (and computer science)
 ## SQL
 - https://i.redd.it/g79fnqndd6s71.jpg
 - https://calpaterson.com/how-a-sql-database-works.html
+- https://aneesh.mataroa.blog/blog/vectorization-in-olap-databases/
 - https://www.youtube.com/channel/UCuDWqzSSHgHkD0zBwrIXSNQ/playlists
 - https://extendsclass.com/mysql-online.html
 
