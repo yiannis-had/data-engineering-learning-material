@@ -6,7 +6,7 @@ Material for data & software engineering (and computer science)
 - [The AI hierarchy of needs](https://hackernoon.com/_next/image?url=https%3A%2F%2Fcdn.hackernoon.com%2Fhn-images%2F1*7IMev5xslc9FLxr9hHhpFw.png&w=1920&q=75) - *pyramid picture*
 
 ## Roadmap
-- https://github.com/datastacktv/data-engineer-roadmap
+- https://github.com/datastacktv/data-engineer-roadmap - use as general guidance
 
 ## Python
 - https://gto76.github.io/python-cheatsheet/
