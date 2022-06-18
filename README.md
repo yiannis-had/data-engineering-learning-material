@@ -20,6 +20,7 @@ Material for data & software engineering (and computer science)
 - https://i.redd.it/g79fnqndd6s71.jpg
 - https://calpaterson.com/how-a-sql-database-works.html
 - https://aneesh.mataroa.blog/blog/vectorization-in-olap-databases/
+- https://www.youtube.com/watch?v=Cym4TZwTCNU
 - https://www.youtube.com/channel/UCuDWqzSSHgHkD0zBwrIXSNQ/playlists
 - https://extendsclass.com/mysql-online.html
 
@@ -53,22 +54,28 @@ Material for data & software engineering (and computer science)
 - https://github.com/papers-we-love/papers-we-love
 - https://github.com/dwmkerr/hacker-laws
 
-## Misc articles/blogs/news/discussions/videos
-- https://refactoring.guru/
+## Data mesh
 - https://martinfowler.com/articles/data-monolith-to-mesh.html
 - https://martinfowler.com/articles/data-mesh-principles.html
 - https://carlosgrande.me/my-data-mesh-thesis/
+
+## Misc articles/blogs/news/discussions/videos
+- https://refactoring.guru/ - refactoring and design patterns
 - https://www.youtube.com/watch?v=Fvu2oFyFCT0 - *meta* data engineering
-- https://maximebeauchemin.medium.com/functional-data-engineering-a-modern-paradigm-for-batch-data-processing-2327ec32c42a ; https://www.youtube.com/watch?v=4Spo2QRTz1k
+- https://maximebeauchemin.medium.com/functional-data-engineering-a-modern-paradigm-for-batch-data-processing-2327ec32c42a ; https://www.youtube.com/watch?v=4Spo2QRTz1k - *functional* data engineering
 - https://www.youtube.com/watch?v=pzfgbSfzhXg - build *frameworks* not pipelines
-- https://preset.io/blog/reshaping-data-engineering/
-- https://airbyte.io/blog/why-the-future-of-etl-is-not-elt-but-el
-- https://databand.ai/blog/a-data-observability-model-for-data-engineers/
+- https://www.youtube.com/watch?v=ZZr9oE4Oa5U - *stages* of data engineering
+- https://preset.io/blog/reshaping-data-engineering/ - data engineering trends
+- https://airbyte.io/blog/why-the-future-of-etl-is-not-elt-but-el - EL(T) over ELT
+- https://databand.ai/blog/a-data-observability-model-for-data-engineers/ - data observability
 - https://medium.com/capital-one-tech/choosing-between-rest-web-apis-and-message-streaming-8e2f4813a058
-- https://blog.discord.com/how-discord-stores-billions-of-messages-7fa6ec7ee4c7
-- https://blog.twitter.com/engineering/en_us/a/2013/dremel-made-simple-with-parquet
+- https://blog.discord.com/how-discord-stores-billions-of-messages-7fa6ec7ee4c7 - Discord case study
+- https://blog.twitter.com/engineering/en_us/a/2013/dremel-made-simple-with-parquet - Dremel (BigQuery) behind the scenes
 - https://www.blef.fr/tag/datanews/ - data news
 - https://www.startdataengineering.com/post/ - brief "how to" posts
+
+## Reddit discussions
+- **https://www.reddit.com/r/dataengineering/comments/r14k34/which_tech_skills_are_the_most_marketable_in_the/hlwohpr/**
 - https://www.reddit.com/r/dataengineering/comments/pmtenl/data_warehouse_interview_question/
 - https://www.reddit.com/r/dataengineering/comments/rnmumx/kimball_vs_inmon_vs_vault/
 - https://www.reddit.com/r/dataengineering/comments/paid71/best_practices_to_orchestrate_ingestion_into/ha52vu2/ (also check another [comment](https://www.reddit.com/r/dataengineering/comments/q77329/no_work_in_team_what_to_learn_work_on/hggu1yd/) from the same person)
@@ -110,17 +117,3 @@ Material for data & software engineering (and computer science)
 - https://github.com/viraptor/reverse-interview
 - https://yangshun.github.io/tech-interview-handbook/
 - https://github.com/donnemartin/interactive-coding-challenges
-
-## https://www.reddit.com/r/dataengineering/comments/r14k34/which_tech_skills_are_the_most_marketable_in_the/hlwohpr/
-No online course can necessarily teach these skills, but instead it comes with experience on the job. Here are a few topics to explore further:
-- Writing DRY code 
-- SOLID principles
-- Creating generic applications that can be extended and applied to similar projects (this mainly falls under “abstraction” and the next point, configuration)
-- Configuration: don’t hard-code variables, and make it easy to change configuration separately from logic
-- Secrets: never check passwords or keys into git, or add them where visible in plain text (e.g. env vars on a container definition). I prefer fetching at runtime from an encrypted store like AWS SSM or Hashicorp Vault. 
-- Debugging: know how to read logs and infer what the true error is from a traceback. Know how to step through code with breakpoints using an IDE. Know how to Google errors before bugging a coworker. 
-- Infrastructure: at least know how and where your code is executing. You may not be a DevOps expert (though I’d argue you should start learning), but at least know the features and limitations of your runtime environment, which will eventually help with debugging. 
-- Observability: think about what could go wrong, and how you will find out about it. Make sure you are the first to know, not your customers (internal or external). 
-- Know when to ask for help: I’ve seen people struggle for days on a problem, then ask someone else and fix it in 5 minutes. You are (probably) on a team to share knowledge and help each other level up. Nobody knows everything, so don’t be afraid to ask for guidance from someone who has solved the problem before. Timebox problems and say if I can’t figure this out alone in X hours, let me ask other people. 
-
-Those are some high level things I think about when it comes to engineering, and notice how none of them are specific to data engineering, or to any tools or frameworks. You can apply these to front end, back end, data science, data engineering, etc and take your career in any direction once you understand what it means to be a true engineer.
