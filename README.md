@@ -83,7 +83,7 @@ Material for data & software engineering (and computer science)
 - https://www.reddit.com/r/dataengineering/comments/q1i98c/python_or_sql_for_etl_or_both/hfgl7fy/
 - https://www.reddit.com/r/dataengineering/comments/r6lhgq/late_data_arrival/
 
-## Big companies' engineering blogs
+## Tech companies' engineering blogs
 - https://engineering.linkedin.com/blog
 - https://eng.uber.com/
 - https://netflixtechblog.com/
