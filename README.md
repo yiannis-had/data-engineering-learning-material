@@ -90,9 +90,8 @@ Material for data & software engineering (and computer science)
 - https://discord.com/category/engineering
 
 ## Team structure
-- https://medium.com/snaptravel/how-should-our-company-structure-our-data-team-e71f6846024d
-- https://pedram.substack.com/p/modern-data-team
-- https://about.gitlab.com/handbook/business-technology/data-team/platform/
+- https://medium.com/snaptravel/how-should-our-company-structure-our-data-team-e71f6846024d - different structures for data teams
+- https://about.gitlab.com/handbook/business-technology/data-team/platform/ - Gitlab data team handbook
 - Team Topologies: Organizing Business and Technology Teams for Fast Flow
 
 ## Missing Semester of Your CS Education
