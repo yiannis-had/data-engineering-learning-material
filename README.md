@@ -2,50 +2,49 @@
 Material for data & software engineering (and computer science)
 
 ## Intro
-- https://www.youtube.com/watch?v=qWru-b6m030
+- https://www.youtube.com/watch?v=qWru-b6m030 - introductory video
 - [The AI hierarchy of needs](https://hackernoon.com/_next/image?url=https%3A%2F%2Fcdn.hackernoon.com%2Fhn-images%2F1*7IMev5xslc9FLxr9hHhpFw.png&w=1920&q=75) - *pyramid picture*
 
 ## Roadmap
 - https://github.com/datastacktv/data-engineer-roadmap - use as general guidance
 
 ## Python
-- https://gto76.github.io/python-cheatsheet/
-- https://www.scrapingbee.com/blog/web-scraping-101-with-python/
-- https://pandas.pydata.org/Pandas_Cheat_Sheet.pdf
-- https://pandas.pydata.org/pandas-docs/stable/user_guide/cookbook.html
-- https://github.com/vinta/awesome-python
-- https://github.com/satwikkansal/wtfpython
+- https://gto76.github.io/python-cheatsheet/ - Python cheatsheet
+- https://www.scrapingbee.com/blog/web-scraping-101-with-python/ - Web scraping with Python
+- https://pandas.pydata.org/Pandas_Cheat_Sheet.pdf - Pandas cheatsheet
+- https://pandas.pydata.org/pandas-docs/stable/user_guide/cookbook.html - Pandas cookbook
+- https://github.com/satwikkansal/wtfpython - Python quirks
 
 ## SQL
-- https://i.redd.it/g79fnqndd6s71.jpg
-- https://calpaterson.com/how-a-sql-database-works.html
-- https://aneesh.mataroa.blog/blog/vectorization-in-olap-databases/
-- https://www.youtube.com/watch?v=Cym4TZwTCNU
-- https://www.youtube.com/channel/UCuDWqzSSHgHkD0zBwrIXSNQ/playlists
-- https://extendsclass.com/mysql-online.html
+- https://i.redd.it/g79fnqndd6s71.jpg - cheatsheet
+- https://calpaterson.com/how-a-sql-database-works.html - data structures of a database
+- https://aneesh.mataroa.blog/blog/vectorization-in-olap-databases/ - quick article on vectorization
+- https://www.youtube.com/watch?v=Cym4TZwTCNU - Rich Hickey: Deconstructing the Database
+- https://www.youtube.com/channel/UCuDWqzSSHgHkD0zBwrIXSNQ/playlists - SQL problems and solutions
+- https://extendsclass.com/mysql-online.html - MySQL playground
 
 ## Linux
-- https://abarrak.gitbook.io/linux-sysops-handbook/
-- https://gto76.github.io/linux-cheatsheet/
-- https://github.com/jlevy/the-art-of-command-line
+- https://gto76.github.io/linux-cheatsheet/ - comprehensive Linux cheatsheet
+- https://github.com/jlevy/the-art-of-command-line - Bash commands
+- https://abarrak.gitbook.io/linux-sysops-handbook/ - SysOps commands
 
 ## Distributed Systems/System design/Architecture
-- https://www.youtube.com/watch?v=Y6Ev8GIlbxc
-- https://pdos.csail.mit.edu/6.824/schedule.html
-- https://martinfowler.com/articles/patterns-of-distributed-systems/
-- https://www.youtube.com/playlist?list=PLeKd45zvjcDFUEv_ohr_HdUFe97RItdiB
-- https://www.computer.org/publications/tech-news/research/netflix-chaos-engineering
+- https://www.youtube.com/watch?v=Y6Ev8GIlbxc - intro
+- https://pdos.csail.mit.edu/6.824/schedule.html - MIT module on Distributed Systems
+- https://www.youtube.com/playlist?list=PLeKd45zvjcDFUEv_ohr_HdUFe97RItdiB - Distributed Systems series by Martin Kleppmann
+- https://www.computer.org/publications/tech-news/research/netflix-chaos-engineering - Chaos
 - https://asatarin.github.io/testing-distributed-systems/
 - https://github.com/binhnguyennus/awesome-scalability
 - https://github.com/donnemartin/system-design-primer
 - https://github.com/codecrafters-io/build-your-own-x
 - https://martinfowler.com/architecture/
+- https://martinfowler.com/articles/patterns-of-distributed-systems/
 - https://martinfowler.com/articles/microservices.html
 
-## Dataflow
-- https://cloud.google.com/blog/products/data-analytics/guide-to-common-cloud-dataflow-use-case-patterns-part-1
-- https://cloud.google.com/blog/products/data-analytics/how-cloud-batch-and-stream-data-processing-works
-- https://www.youtube.com/watch?v=4ifC_6AVkUw
+## Beam
+- https://www.youtube.com/watch?v=4ifC_6AVkUw - intro
+- https://cloud.google.com/blog/products/data-analytics/how-cloud-batch-and-stream-data-processing-works - more detail and background
+- https://cloud.google.com/blog/products/data-analytics/guide-to-common-cloud-dataflow-use-case-patterns-part-1 - patterns and specifics
 
 ## Compiled lists
 - https://github.com/sindresorhus/awesome
@@ -100,9 +99,11 @@ Material for data & software engineering (and computer science)
 - https://missing.csail.mit.edu/
 
 ## Technical books and relevant resources
+- Introduction to Algorithms
 - Designing Data-Intensive Applications
 - The Data Warehouse Toolkit
 - Design Patterns: Elements of Reusable Object-Oriented Software
+- https://github.com/tayllan/awesome-algorithms (Algorithms)
 - https://medium.com/@Joker3D/mind-maps-of-designing-data-intensive-application-2b7556be92b3 (DDIA)
 - https://www.holistics.io/blog/how-to-read-data-warehouse-toolkit/ (DW Toolkit)
 - https://www.kimballgroup.com/data-warehouse-business-intelligence-resources/kimball-techniques/dimensional-modeling-techniques/ (DW Toolkit)
