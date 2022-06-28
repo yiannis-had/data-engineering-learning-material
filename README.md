@@ -20,7 +20,6 @@ Material for data & software engineering (and computer science)
 - https://calpaterson.com/how-a-sql-database-works.html - data structures of a database
 - https://aneesh.mataroa.blog/blog/vectorization-in-olap-databases/ - quick article on vectorization
 - https://www.youtube.com/watch?v=Cym4TZwTCNU - Rich Hickey: Deconstructing the Database
-- https://www.youtube.com/channel/UCuDWqzSSHgHkD0zBwrIXSNQ/playlists - SQL problems and solutions
 - https://extendsclass.com/mysql-online.html - MySQL playground
 
 ## Linux & SysOps
@@ -121,3 +120,4 @@ Material for data & software engineering (and computer science)
 - https://github.com/viraptor/reverse-interview
 - https://yangshun.github.io/tech-interview-handbook/
 - https://github.com/donnemartin/interactive-coding-challenges
+- https://www.youtube.com/channel/UCuDWqzSSHgHkD0zBwrIXSNQ/playlists - SQL problems and solutions
