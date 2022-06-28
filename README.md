@@ -23,10 +23,11 @@ Material for data & software engineering (and computer science)
 - https://www.youtube.com/channel/UCuDWqzSSHgHkD0zBwrIXSNQ/playlists - SQL problems and solutions
 - https://extendsclass.com/mysql-online.html - MySQL playground
 
-## Linux
+## Linux & SysOps
 - https://gto76.github.io/linux-cheatsheet/ - comprehensive Linux cheatsheet
 - https://github.com/jlevy/the-art-of-command-line - Bash commands
 - https://abarrak.gitbook.io/linux-sysops-handbook/ - SysOps commands
+- https://github.com/trimstray/the-book-of-secret-knowledge
 
 ## Distributed Systems/System design/Architecture
 - https://www.youtube.com/watch?v=Y6Ev8GIlbxc - intro
@@ -40,6 +41,7 @@ Material for data & software engineering (and computer science)
 - https://martinfowler.com/architecture/
 - https://martinfowler.com/articles/patterns-of-distributed-systems/
 - https://martinfowler.com/articles/microservices.html
+- https://github.com/DovAmir/awesome-design-patterns
 
 ## Beam
 - https://www.youtube.com/watch?v=4ifC_6AVkUw - intro
@@ -49,7 +51,7 @@ Material for data & software engineering (and computer science)
 ## Compiled lists
 - https://github.com/sindresorhus/awesome
 - https://github.com/igorbarinov/awesome-data-engineering
-- https://github.com/trimstray/the-book-of-secret-knowledge
+
 - https://github.com/papers-we-love/papers-we-love
 - https://github.com/dwmkerr/hacker-laws
 
@@ -83,6 +85,7 @@ Material for data & software engineering (and computer science)
 - https://www.reddit.com/r/dataengineering/comments/r6lhgq/late_data_arrival/
 
 ## Tech companies' engineering blogs
+- https://github.com/kilimchoi/engineering-blogs
 - https://engineering.linkedin.com/blog
 - https://eng.uber.com/
 - https://netflixtechblog.com/
