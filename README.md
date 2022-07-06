@@ -62,6 +62,7 @@ Material for data & software engineering (and computer science)
 - https://refactoring.guru/ - refactoring and design patterns
 - https://www.youtube.com/watch?v=Fvu2oFyFCT0 - *meta* data engineering
 - https://maximebeauchemin.medium.com/functional-data-engineering-a-modern-paradigm-for-batch-data-processing-2327ec32c42a ; https://www.youtube.com/watch?v=4Spo2QRTz1k - *functional* data engineering
+- https://github.com/hemanth/functional-programming-jargon - functional programming intro
 - https://www.youtube.com/watch?v=pzfgbSfzhXg - build *frameworks* not pipelines
 - https://www.youtube.com/watch?v=ZZr9oE4Oa5U - *stages* of data engineering
 - https://preset.io/blog/reshaping-data-engineering/ - data engineering trends
