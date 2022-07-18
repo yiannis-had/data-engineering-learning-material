@@ -14,6 +14,7 @@ Material for data & software engineering (and computer science)
 - https://pandas.pydata.org/Pandas_Cheat_Sheet.pdf - Pandas cheatsheet
 - https://pandas.pydata.org/pandas-docs/stable/user_guide/cookbook.html - Pandas cookbook
 - https://github.com/satwikkansal/wtfpython - Python quirks
+- https://cjolowicz.github.io/posts/hypermodern-python-01-setup - Modern Python tooling
 
 ## SQL
 - https://i.redd.it/g79fnqndd6s71.jpg - cheatsheet
@@ -120,4 +121,5 @@ Material for data & software engineering (and computer science)
 - https://github.com/viraptor/reverse-interview
 - https://yangshun.github.io/tech-interview-handbook/
 - https://github.com/donnemartin/interactive-coding-challenges
+- https://github.com/jwasham/coding-interview-university
 - https://www.youtube.com/channel/UCuDWqzSSHgHkD0zBwrIXSNQ/playlists - SQL problems and solutions
