@@ -22,6 +22,7 @@ Material for data & software engineering (and computer science)
 - https://aneesh.mataroa.blog/blog/vectorization-in-olap-databases/ - quick article on vectorization
 - https://www.youtube.com/watch?v=Cym4TZwTCNU - Rich Hickey: Deconstructing the Database
 - https://extendsclass.com/mysql-online.html - MySQL playground
+- https://www.youtube.com/channel/UCuDWqzSSHgHkD0zBwrIXSNQ/playlists - SQL problems and solutions
 
 ## Linux & SysOps
 - https://gto76.github.io/linux-cheatsheet/ - comprehensive Linux cheatsheet
@@ -122,4 +123,3 @@ Material for data & software engineering (and computer science)
 - https://yangshun.github.io/tech-interview-handbook/
 - https://github.com/donnemartin/interactive-coding-challenges
 - https://github.com/jwasham/coding-interview-university
-- https://www.youtube.com/channel/UCuDWqzSSHgHkD0zBwrIXSNQ/playlists - SQL problems and solutions
