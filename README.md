@@ -44,6 +44,9 @@ Material for data & software engineering (and computer science)
 - https://martinfowler.com/articles/microservices.html
 - https://github.com/DovAmir/awesome-design-patterns
 
+## Testing
+- https://miguelgfierro.com/blog/2018/a-beginners-guide-to-python-testing/ - intro
+
 ## Beam
 - https://www.youtube.com/watch?v=4ifC_6AVkUw - intro
 - https://cloud.google.com/blog/products/data-analytics/how-cloud-batch-and-stream-data-processing-works - more detail and background
