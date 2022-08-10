@@ -15,6 +15,7 @@ Material for data & software engineering (and computer science)
 - https://pandas.pydata.org/pandas-docs/stable/user_guide/cookbook.html - Pandas cookbook
 - https://github.com/satwikkansal/wtfpython - Python quirks
 - https://cjolowicz.github.io/posts/hypermodern-python-01-setup - Modern Python tooling
+- https://superfastpython.com/python-concurrency-choose-api/ - Choose the right Python concurrency API
 
 ## SQL
 - https://i.redd.it/g79fnqndd6s71.jpg - cheatsheet
@@ -117,6 +118,7 @@ Material for data & software engineering (and computer science)
 
 ## Career articles
 - https://www.justindfuller.com/2022/02/embracing-impostor-syndrome/
+- https://dsebastien.net/blog/2022-08-03-the-feynman-technique
 - https://bitfieldconsulting.com/golang/career
 - https://www.bti360.com/what-ive-learned-in-45-years-in-the-software-industry/
 - https://sloanreview.mit.edu/article/top-performers-have-a-superpower-happiness/
