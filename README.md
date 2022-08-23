@@ -76,6 +76,7 @@ Material for data & software engineering (and computer science)
 - https://databand.ai/blog/a-data-observability-model-for-data-engineers/ - data observability
 - https://medium.com/capital-one-tech/choosing-between-rest-web-apis-and-message-streaming-8e2f4813a058
 - https://discord.com/blog/how-discord-stores-billions-of-messages - Discord case study
+- https://zwischenzugs.com/2022/08/08/who-should-write-the-terraform/ - Who Should Write the Terraform?
 - https://blog.twitter.com/engineering/en_us/a/2013/dremel-made-simple-with-parquet - Dremel (BigQuery) behind the scenes
 - https://www.blef.fr/tag/datanews/ - data news
 - https://www.startdataengineering.com/post/ - brief "how to" posts
