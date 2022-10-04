@@ -47,6 +47,7 @@ Material for data & software engineering (and computer science)
 
 ## Testing
 - https://miguelgfierro.com/blog/2018/a-beginners-guide-to-python-testing/ - intro
+- https://www.fugue.co/blog/2016-02-11-python-mocking-101 - mocking
 
 ## Beam
 - https://www.youtube.com/watch?v=4ifC_6AVkUw - intro
