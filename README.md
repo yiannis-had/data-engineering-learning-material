@@ -15,7 +15,10 @@ Material for data & software engineering (and computer science)
 - https://pandas.pydata.org/pandas-docs/stable/user_guide/cookbook.html - Pandas cookbook
 - https://github.com/satwikkansal/wtfpython - Python quirks
 - https://cjolowicz.github.io/posts/hypermodern-python-01-setup - Modern Python tooling
+- https://bernat.tech/posts/pep-517-and-python-packaging/ - Python packaging
 - https://superfastpython.com/python-concurrency-choose-api/ - Choose the right Python concurrency API
+- https://miguelgfierro.com/blog/2018/a-beginners-guide-to-python-testing/ - intro to testing
+- https://www.fugue.co/blog/2016-02-11-python-mocking-101 - mocking
 
 ## SQL
 - https://i.redd.it/g79fnqndd6s71.jpg - cheatsheet
@@ -44,10 +47,6 @@ Material for data & software engineering (and computer science)
 - https://martinfowler.com/articles/patterns-of-distributed-systems/
 - https://martinfowler.com/articles/microservices.html
 - https://github.com/DovAmir/awesome-design-patterns
-
-## Testing
-- https://miguelgfierro.com/blog/2018/a-beginners-guide-to-python-testing/ - intro
-- https://www.fugue.co/blog/2016-02-11-python-mocking-101 - mocking
 
 ## Beam
 - https://www.youtube.com/watch?v=4ifC_6AVkUw - intro
