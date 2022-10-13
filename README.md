@@ -25,6 +25,7 @@ Material for data & software engineering (and computer science)
 - https://calpaterson.com/how-a-sql-database-works.html - data structures of a database
 - https://aneesh.mataroa.blog/blog/vectorization-in-olap-databases/ - quick article on vectorization
 - https://www.youtube.com/watch?v=Cym4TZwTCNU - Rich Hickey: Deconstructing the Database
+- https://muratbuffalo.blogspot.com/2022/09/sqlite-past-present-and-future.html - SQLite architecture
 - https://extendsclass.com/mysql-online.html - MySQL playground
 - https://www.youtube.com/channel/UCuDWqzSSHgHkD0zBwrIXSNQ/playlists - SQL problems and solutions
 
