@@ -128,6 +128,6 @@ Material for data & software engineering (and computer science)
 
 ## Interview
 - https://github.com/viraptor/reverse-interview
-- https://yangshun.github.io/tech-interview-handbook/
+- https://www.techinterviewhandbook.org/
 - https://github.com/donnemartin/interactive-coding-challenges
 - https://github.com/jwasham/coding-interview-university
