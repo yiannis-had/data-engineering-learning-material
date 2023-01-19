@@ -128,6 +128,7 @@ Material for data & software engineering (and computer science)
 - https://bitfieldconsulting.com/golang/career
 - https://www.bti360.com/what-ive-learned-in-45-years-in-the-software-industry/
 - https://sloanreview.mit.edu/article/top-performers-have-a-superpower-happiness/
+- https://www.simplethread.com/20-things-ive-learned-in-my-20-years-as-a-software-engineer/
 
 ## Interview
 - https://github.com/viraptor/reverse-interview
