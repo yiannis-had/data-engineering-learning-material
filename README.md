@@ -82,6 +82,7 @@ Material for data & software engineering (and computer science)
 - https://www.blef.fr/tag/datanews/ - data news
 - https://www.startdataengineering.com/post/ - brief "how to" posts
 - https://betterprogramming.pub/why-domain-driven-design-203099adf32a - Why DDD
+- https://motherduck.com/blog/big-data-is-dead/ - Big Data is Dead
 
 ## Reddit discussions
 - **https://www.reddit.com/r/dataengineering/comments/r14k34/which_tech_skills_are_the_most_marketable_in_the/hlwohpr/**
@@ -94,6 +95,7 @@ Material for data & software engineering (and computer science)
 
 ## Tech companies' engineering blogs
 - https://github.com/kilimchoi/engineering-blogs
+- https://github.blog/category/engineering/
 - https://engineering.linkedin.com/blog
 - https://eng.uber.com/
 - https://netflixtechblog.com/
