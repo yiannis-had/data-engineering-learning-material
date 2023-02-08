@@ -75,7 +75,6 @@ Material for data & software engineering (and computer science)
 - https://preset.io/blog/reshaping-data-engineering/ - data engineering trends
 - https://airbyte.io/blog/why-the-future-of-etl-is-not-elt-but-el - EL(T) over ELT
 - https://databand.ai/blog/a-data-observability-model-for-data-engineers/ - data observability
-- https://medium.com/capital-one-tech/choosing-between-rest-web-apis-and-message-streaming-8e2f4813a058
 - https://discord.com/blog/how-discord-stores-billions-of-messages - Discord case study
 - https://zwischenzugs.com/2022/08/08/who-should-write-the-terraform/ - Who Should Write the Terraform?
 - https://blog.twitter.com/engineering/en_us/a/2013/dremel-made-simple-with-parquet - Dremel (BigQuery) behind the scenes
