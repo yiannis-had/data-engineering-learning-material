@@ -82,6 +82,7 @@ Material for data & software engineering (and computer science)
 - https://www.startdataengineering.com/post/ - brief "how to" posts
 - https://betterprogramming.pub/why-domain-driven-design-203099adf32a - Why DDD
 - https://motherduck.com/blog/big-data-is-dead/ - Big Data is Dead
+- https://artem.krylysov.com/blog/2023/04/19/how-rocksdb-works/ - How RocksDB works
 
 ## Reddit discussions
 - **https://www.reddit.com/r/dataengineering/comments/r14k34/which_tech_skills_are_the_most_marketable_in_the/hlwohpr/**
