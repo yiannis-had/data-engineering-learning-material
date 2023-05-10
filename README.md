@@ -28,6 +28,7 @@ Material for data & software engineering (and computer science)
 - https://muratbuffalo.blogspot.com/2022/09/sqlite-past-present-and-future.html - SQLite architecture
 - https://extendsclass.com/mysql-online.html - MySQL playground
 - https://www.youtube.com/channel/UCuDWqzSSHgHkD0zBwrIXSNQ/playlists - SQL problems and solutions
+- https://towardsdatascience.com/the-sql-unit-testing-landscape-2023-7a8c5f986dd3 - SQL Unit Testing landscape in 2023
 
 ## Linux & SysOps
 - https://gto76.github.io/linux-cheatsheet/ - comprehensive Linux cheatsheet
