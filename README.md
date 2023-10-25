@@ -44,6 +44,7 @@ Material for data & software engineering (and computer science)
 - https://asatarin.github.io/testing-distributed-systems/
 - https://github.com/binhnguyennus/awesome-scalability
 - https://github.com/donnemartin/system-design-primer
+- https://github.com/ByteByteGoHq/system-design-101
 - https://github.com/codecrafters-io/build-your-own-x
 - https://martinfowler.com/architecture/
 - https://martinfowler.com/articles/patterns-of-distributed-systems/
