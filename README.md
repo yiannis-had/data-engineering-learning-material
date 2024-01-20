@@ -30,11 +30,8 @@ Material for data & software engineering (and computer science)
 - https://www.youtube.com/channel/UCuDWqzSSHgHkD0zBwrIXSNQ/playlists - SQL problems and solutions
 - https://towardsdatascience.com/the-sql-unit-testing-landscape-2023-7a8c5f986dd3 - SQL Unit Testing landscape in 2023
 
-## Linux & SysOps
-- https://gto76.github.io/linux-cheatsheet/ - comprehensive Linux cheatsheet
+## Linux & tooling
 - https://github.com/jlevy/the-art-of-command-line - Bash commands
-- https://abarrak.gitbook.io/linux-sysops-handbook/ - SysOps commands
-- https://github.com/trimstray/the-book-of-secret-knowledge
 
 ## Distributed Systems/System design/Architecture
 - https://www.youtube.com/watch?v=Y6Ev8GIlbxc - intro
@@ -51,16 +48,12 @@ Material for data & software engineering (and computer science)
 - https://martinfowler.com/articles/microservices.html
 - https://github.com/DovAmir/awesome-design-patterns
 
-## Beam
-- https://www.youtube.com/watch?v=4ifC_6AVkUw - intro
-- https://cloud.google.com/blog/products/data-analytics/how-cloud-batch-and-stream-data-processing-works - more detail and background
-- https://cloud.google.com/blog/products/data-analytics/guide-to-common-cloud-dataflow-use-case-patterns-part-1 - patterns and specifics
-
 ## Compiled lists
 - https://github.com/sindresorhus/awesome
 - https://github.com/igorbarinov/awesome-data-engineering
 - https://github.com/papers-we-love/papers-we-love
 - https://github.com/dwmkerr/hacker-laws
+- https://github.com/trimstray/the-book-of-secret-knowledge
 
 ## Data mesh
 - https://martinfowler.com/articles/data-monolith-to-mesh.html
