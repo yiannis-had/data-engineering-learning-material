@@ -111,13 +111,11 @@ Material for data & software engineering (and computer science)
 - Designing Data-Intensive Applications
 - The Data Warehouse Toolkit
 - Design Patterns: Elements of Reusable Object-Oriented Software
-- Pattern-Oriented Software Architecture
 - https://github.com/tayllan/awesome-algorithms (Algorithms)
 - https://medium.com/@Joker3D/mind-maps-of-designing-data-intensive-application-2b7556be92b3 (DDIA)
 - https://www.holistics.io/blog/how-to-read-data-warehouse-toolkit/ (DW Toolkit)
 - https://www.kimballgroup.com/data-warehouse-business-intelligence-resources/kimball-techniques/dimensional-modeling-techniques/ (DW Toolkit)
 - https://github.com/faif/python-patterns (Design Patterns)
-- https://thecomputersciencebook.com/
 - https://github.com/practical-tutorials/project-based-learning
 
 ## Career articles
