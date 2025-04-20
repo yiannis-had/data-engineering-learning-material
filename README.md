@@ -1,9 +1,8 @@
 # Data Engineering learning material
-Material for data & software engineering (and computer science)
+![Hierarchy of needs](./hierarchy.jpg)
 
 ## Intro
 - https://www.youtube.com/watch?v=qWru-b6m030 - introductory video
-![Hierarchy of needs](./hierarchy.jpg)
 
 ## Roadmap
 - https://github.com/datastacktv/data-engineer-roadmap - use as general guidance
@@ -15,10 +14,8 @@ Material for data & software engineering (and computer science)
 - https://pandas.pydata.org/pandas-docs/stable/user_guide/cookbook.html - Pandas cookbook
 - https://github.com/satwikkansal/wtfpython - Python quirks
 - https://cjolowicz.github.io/posts/hypermodern-python-01-setup - Modern Python tooling
-- https://bernat.tech/posts/pep-517-and-python-packaging/ - Python packaging
 - https://superfastpython.com/python-concurrency-choose-api/ - Choose the right Python concurrency API
 - https://miguelgfierro.com/blog/2018/a-beginners-guide-to-python-testing/ - intro to testing
-- https://www.fugue.co/blog/2016-02-11-python-mocking-101 - mocking
 
 ## SQL
 - https://i.redd.it/g79fnqndd6s71.jpg - cheatsheet
@@ -76,7 +73,7 @@ Material for data & software engineering (and computer science)
 - https://blog.twitter.com/engineering/en_us/a/2013/dremel-made-simple-with-parquet - Dremel (BigQuery) behind the scenes
 - https://www.blef.fr/tag/datanews/ - data news
 - https://www.startdataengineering.com/post/ - brief "how to" posts
-- https://betterprogramming.pub/why-domain-driven-design-203099adf32a - Why DDD
+- https://medium.com/better-programming/why-domain-driven-design-203099adf32a - Why DDD
 - https://motherduck.com/blog/big-data-is-dead/ - Big Data is Dead
 - https://artem.krylysov.com/blog/2023/04/19/how-rocksdb-works/ - How RocksDB works
 
@@ -100,7 +97,7 @@ Material for data & software engineering (and computer science)
 
 ## Team structure
 - https://medium.com/snaptravel/how-should-our-company-structure-our-data-team-e71f6846024d - different structures for data teams
-- https://about.gitlab.com/handbook/business-technology/data-team/platform/ - Gitlab data team handbook
+- https://handbook.gitlab.com/ - Gitlab handbook
 - Team Topologies: Organizing Business and Technology Teams for Fast Flow
 
 ## Missing Semester of Your CS Education
@@ -119,7 +116,7 @@ Material for data & software engineering (and computer science)
 - https://github.com/practical-tutorials/project-based-learning
 
 ## Career articles
-- https://www.justindfuller.com/2022/02/embracing-impostor-syndrome/
+- https://web.archive.org/web/20220222135436/https://www.justindfuller.com/2022/02/embracing-impostor-syndrome/
 - https://dsebastien.net/blog/2022-08-03-the-feynman-technique
 - https://bitfieldconsulting.com/golang/career
 - https://www.bti360.com/what-ive-learned-in-45-years-in-the-software-industry/
