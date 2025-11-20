@@ -32,7 +32,7 @@
 
 ## Distributed Systems/System design/Architecture
 - https://www.youtube.com/watch?v=Y6Ev8GIlbxc - intro
-- https://pdos.csail.mit.edu/6.824/schedule.html - MIT module on Distributed Systems
+- https://pdos.csail.mit.edu/6.824/schedule.html - MIT course on Distributed Systems
 - https://www.youtube.com/playlist?list=PLeKd45zvjcDFUEv_ohr_HdUFe97RItdiB - Distributed Systems series by Martin Kleppmann
 - https://www.computer.org/publications/tech-news/research/netflix-chaos-engineering - Chaos
 - https://asatarin.github.io/testing-distributed-systems/
