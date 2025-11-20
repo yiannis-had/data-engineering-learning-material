@@ -13,7 +13,6 @@
 - https://pandas.pydata.org/Pandas_Cheat_Sheet.pdf - Pandas cheatsheet
 - https://pandas.pydata.org/pandas-docs/stable/user_guide/cookbook.html - Pandas cookbook
 - https://github.com/satwikkansal/wtfpython - Python quirks
-- https://cjolowicz.github.io/posts/hypermodern-python-01-setup - Modern Python tooling
 - https://superfastpython.com/python-concurrency-choose-api/ - Choose the right Python concurrency API
 - https://miguelgfierro.com/blog/2018/a-beginners-guide-to-python-testing/ - intro to testing
 
@@ -23,7 +22,6 @@
 - https://aneesh.mataroa.blog/blog/vectorization-in-olap-databases/ - quick article on vectorization
 - https://www.youtube.com/watch?v=Cym4TZwTCNU - Rich Hickey: Deconstructing the Database
 - https://muratbuffalo.blogspot.com/2022/09/sqlite-past-present-and-future.html - SQLite architecture
-- https://extendsclass.com/mysql-online.html - MySQL playground
 - https://www.youtube.com/channel/UCuDWqzSSHgHkD0zBwrIXSNQ/playlists - SQL problems and solutions
 - https://towardsdatascience.com/the-sql-unit-testing-landscape-2023-7a8c5f986dd3 - SQL Unit Testing landscape in 2023
 
