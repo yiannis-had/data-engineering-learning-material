@@ -19,11 +19,12 @@
 ## SQL
 - https://i.redd.it/g79fnqndd6s71.jpg - cheatsheet
 - https://calpaterson.com/how-a-sql-database-works.html - data structures of a database
-- https://aneesh.mataroa.blog/blog/vectorization-in-olap-databases/ - quick article on vectorization
-- https://www.youtube.com/watch?v=Cym4TZwTCNU - Rich Hickey: Deconstructing the Database
+- https://aneesh.mataroa.blog/blog/vectorization-in-olap-databases/ - quick article on vectorisation
+- https://blog.x.com/engineering/en_us/a/2013/dremel-made-simple-with-parquet - Dremel (BigQuery) behind the scenes
 - https://muratbuffalo.blogspot.com/2022/09/sqlite-past-present-and-future.html - SQLite architecture
-- https://www.youtube.com/channel/UCuDWqzSSHgHkD0zBwrIXSNQ/playlists - SQL problems and solutions
 - https://towardsdatascience.com/the-sql-unit-testing-landscape-2023-7a8c5f986dd3 - SQL Unit Testing landscape in 2023
+- https://artem.krylysov.com/blog/2023/04/19/how-rocksdb-works/ - How RocksDB works
+- https://www.youtube.com/channel/UCuDWqzSSHgHkD0zBwrIXSNQ/playlists - SQL problems and solutions
 
 ## Linux & tooling
 - https://github.com/jlevy/the-art-of-command-line - Bash commands
@@ -68,12 +69,10 @@
 - https://discord.com/blog/how-discord-stores-billions-of-messages - Discord case study
 - https://discord.com/blog/how-discord-stores-trillions-of-messages - Follow up to the above
 - https://zwischenzugs.com/2022/08/08/who-should-write-the-terraform/ - Who Should Write the Terraform?
-- https://blog.x.com/engineering/en_us/a/2013/dremel-made-simple-with-parquet - Dremel (BigQuery) behind the scenes
 - https://www.blef.fr/tag/datanews/ - data news
 - https://www.startdataengineering.com/post/ - brief "how to" posts
 - https://medium.com/better-programming/why-domain-driven-design-203099adf32a - Why DDD
 - https://motherduck.com/blog/big-data-is-dead/ - Big Data is Dead
-- https://artem.krylysov.com/blog/2023/04/19/how-rocksdb-works/ - How RocksDB works
 
 ## Reddit discussions
 - **https://www.reddit.com/r/dataengineering/comments/r14k34/which_tech_skills_are_the_most_marketable_in_the/hlwohpr/**
