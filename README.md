@@ -80,7 +80,6 @@
 - https://www.reddit.com/r/dataengineering/comments/pmtenl/data_warehouse_interview_question/
 - https://www.reddit.com/r/dataengineering/comments/rnmumx/kimball_vs_inmon_vs_vault/
 - https://www.reddit.com/r/dataengineering/comments/paid71/best_practices_to_orchestrate_ingestion_into/ha52vu2/ (also check another [comment](https://www.reddit.com/r/dataengineering/comments/q77329/no_work_in_team_what_to_learn_work_on/hggu1yd/) from the same person)
-- https://www.reddit.com/r/dataengineering/comments/rkhevl/what_did_you_guys_wish_you_knew_before/hpa41ff/
 - https://www.reddit.com/r/dataengineering/comments/q1i98c/python_or_sql_for_etl_or_both/hfgl7fy/
 - https://www.reddit.com/r/dataengineering/comments/r6lhgq/late_data_arrival/
 
